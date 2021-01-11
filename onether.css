@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ful-website{
+    text-align: center;
+    width: 1024px;
+    background:#ddd;
+    color: #fff;
+
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.manu{
+    background: #34495e;
+    margin-bottom: -30px;
+}
+img{
+    width: 100%;
+}
+.im{
+    margin-top: -300px;
+}
+.banner{
+    margin-bottom: -20px;
+}
+button{
+    background: red;
+    box-shadow: red;
+    border: 1px solid red;
+}
+.container{
+    background: #00a8ff;
+    margin-top: 100px;
+}
+.on{
+    color:green ;
+    line-height: 2px;
+}
+.n{
+    color:green;
+    line-height: 2px;
+}
+.m{
+    color: green;
+    line-height: 2px;
+}
+.footer{
+    background: #27ae60;
+    color: #000;
+}
